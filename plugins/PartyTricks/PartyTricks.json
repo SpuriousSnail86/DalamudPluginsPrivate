@@ -1,0 +1,17 @@
+{
+  "Author": "SpuriousSnail86",
+  "Name": "HSC Party Tricks",
+  "InternalName": "PartyTricks",
+  "AssemblyVersion": "1.9.4.1",
+  "Description": "Various party features for HSC multiboxing. Manage your FFXIV party with ease. Includes auto invite, accept party invites, auto follow, party formations and more!",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "CategoryTags": [
+    "multibox",
+    "utility"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "IconUrl": "",
+  "Punchline": "Various party tricks!"
+}

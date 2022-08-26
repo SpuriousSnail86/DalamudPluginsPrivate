@@ -1,0 +1,23 @@
+[
+{
+  "Author": "SpuriousSnail86",
+  "Name": "HSC Party Tricks",
+  "InternalName": "PartyTricks",
+  "AssemblyVersion": "1.9.4.1",
+  "Description": "HSC Party Tricks for FF14",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "CategoryTags": [
+    "multibox",
+    "client",
+    "utility"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/SpuriousSnail86/DalamudPluginsPrivate/main/plugins/PartyTricks/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/SpuriousSnail86/DalamudPluginsPrivate/main/plugins/PartyTricks/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/SpuriousSnail86/DalamudPluginsPrivate/main/plugins/PartyTricks/latest.zip"
+}
+]
